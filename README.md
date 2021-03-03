@@ -4,7 +4,7 @@ This code is divided in two parts. Part 1 is a jupyter notebook with Hawaii's pr
 
 ## Part 1
 
-With SQLalchemy, create an engine to hawaii.sqlite, then reflect the existing database into a new model, and then start the session. Initialy, through dates, precipitation data of each station is gathered to be plotted using Pandas. Next, the most active station data is used to make an histogram with all the temperatures measured during 12 months, the data is also used to find the lowest, highest, and average temperatures.    
+With SQLalchemy, we create an engine to hawaii.sqlite, then reflect the existing database into a new model, and then start the session. Initially filtering by dates, precipitation's data of each station is gathered and plotted using Pandas. Next, the most active station's data is used to make a histogram. It uses all the temperatures measured during the last 12 months, the data is also used to find the lowest, highest, and average temperatures.    
 
 ## Part 2
 
