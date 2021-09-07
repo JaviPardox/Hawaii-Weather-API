@@ -1,4 +1,4 @@
-# SQLalchemy Challenge
+# Hawaii weather API
 
 This code is divided in two parts. Part 1 is a jupyter notebook with Hawaii's precipitation and temperature analysis, where SQLalchemy is used to do hawaii.sqlite queries. Part 2 consists on a python script that creates a Flask API based on the queries previously developed on the jupyter notebook.
 
